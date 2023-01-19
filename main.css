@@ -1,0 +1,20 @@
+.container{
+    width: 1000px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
